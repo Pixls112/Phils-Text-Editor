@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: "./index.html",
-        title: "Text Editor",
+        title: "JATE",
       }),
 
       new InjectManifest({
