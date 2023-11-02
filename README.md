@@ -29,7 +29,11 @@ npm run start
 The main usage for the project was to build this text editor, given existing code to demonstrate my ability with the different resources given to us for this module. Such as Express, IndexedDB, Webpack & WebpackPwaManifest Plugins, Concurrently, Babel, and Babel extensions.
 
 ## Demonstration
-
+![Screenshot 2023-11-01 185320](https://github.com/Pixls112/Phils-E-commerce-Back-End/assets/135586632/5371e036-323a-4dd9-b8be-f7fd3f039c97)
+![Screenshot 2023-11-01 185516](https://github.com/Pixls112/Phils-E-commerce-Back-End/assets/135586632/d28819a9-8a53-402e-b1b1-228e01e54a9c)
+![Screenshot 2023-11-01 185553](https://github.com/Pixls112/Phils-E-commerce-Back-End/assets/135586632/327bdec7-3eca-4c4d-bf63-a345dfb7f9fc)
+![Screenshot 2023-11-01 185632](https://github.com/Pixls112/Phils-E-commerce-Back-End/assets/135586632/a48e633d-c41a-405f-9c96-78f4339340bd)
+![Screenshot 2023-11-01 185711](https://github.com/Pixls112/Phils-E-commerce-Back-End/assets/135586632/74d1e930-0c70-42b1-a611-5ce2e91e5dd4)
  ## Contributions
  For this project I used the student mini project for week 19 as the foundation of my code. I also used some of the functions provided by it as well.<br />
  I would also like to thank the module for the challenge as well, as I used the gif imaged to assit me when trying to reproduce the results.
